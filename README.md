@@ -12,7 +12,6 @@ Just write a React component:
 
 ```jsx
 import React from 'react';
-
 export default () => <div>Hello world</div>;
 ```
 
