@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "start": "gatsby develop",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gatsby develop"
   },
   "dependencies": {
     "gatsby": "^2.20.35",
