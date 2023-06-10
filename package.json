@@ -3,7 +3,7 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "gatsby": "^2.20.35",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
